@@ -3,7 +3,7 @@
 ## Context
 
 I wanted to make [this screen](https://www.waveshare.com/wiki/5inch_HDMI_LCD) work for my 3d-printer.
-I'm running the M8P with a CB1.
+I'm running the [M8P](https://biqu.equipment/en-fr/products/manta-m4p-m8p) with a [CB1](https://biqu.equipment/products/manta-m4p-m8p?variant=39847241384034).
 Unfortunately it is not compatible out of the box, I had to make a few modifications including writing a device tree overlay in order for the touchscreen to work.
 
 The screen I bought uses [a few pins of the 40 pins header](https://www.waveshare.com/w/upload/1/19/5inch-HDMI-LCD-Manual-02-Pi-4B.jpg).
